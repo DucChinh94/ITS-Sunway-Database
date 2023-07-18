@@ -1,0 +1,6 @@
+	account: system
+	pass: 123456
+
+*** link tài liệu: 
+	+ tổng quan: https://drive.google.com/drive/folders/1Gzp6QmuQHJ_QXP8yxVeCygBQcayOv0WN
+	
